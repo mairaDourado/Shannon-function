@@ -1,6 +1,6 @@
 #' Shannon diversity
 #'
-#' This is a shannon function
+#' This is a Shannon function
 #'
 #' @param x A vector of numeric values representing the species abundance in a community
 #'
